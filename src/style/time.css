@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 100%;
+    height: 100vh;
+    background: rgb(133, 219, 133) ;
+}
+#info{
+    margin-top: 100px;
+}
+#info #timeCount{
+    width:200px;
+    height:25px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px;
+    font-size: large;
+    text-align: center;
+}
+
+#info #current-time{
+    margin-top: 10px;
+    font-size: larger;
+}
